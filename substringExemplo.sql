@@ -1,0 +1,1 @@
+select RD0_NOME,* from RD0000 WHERE SUBSTRING(RD0_NOME,3,1) = 'M'
